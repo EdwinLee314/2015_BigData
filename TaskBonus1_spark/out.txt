@@ -1,0 +1,3 @@
+Hash tag name:followfriday
+Count of month 200902:19078
+Count of month 200903:62289
